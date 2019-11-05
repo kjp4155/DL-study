@@ -1,0 +1,903 @@
+GPUs available.
+Files already downloaded and verified
+Files already downloaded and verified
+
+Test set: Average loss: 0.0150, Accuracy: 2586/10000 (26%)
+Elapsed time: 24.94619655609131
+
+Test set: Average loss: 0.0111, Accuracy: 4908/10000 (49%)
+Elapsed time: 24.907862663269043
+
+Test set: Average loss: 0.0094, Accuracy: 5596/10000 (56%)
+Elapsed time: 27.36437153816223
+
+Test set: Average loss: 0.0083, Accuracy: 6403/10000 (64%)
+Elapsed time: 29.8595871925354
+
+Test set: Average loss: 0.0088, Accuracy: 6324/10000 (63%)
+Elapsed time: 30.03539776802063
+
+Test set: Average loss: 0.0075, Accuracy: 6738/10000 (67%)
+Elapsed time: 28.32422375679016
+
+Test set: Average loss: 0.0072, Accuracy: 6965/10000 (70%)
+Elapsed time: 28.197105169296265
+
+Test set: Average loss: 0.0061, Accuracy: 7439/10000 (74%)
+Elapsed time: 30.28294849395752
+
+Test set: Average loss: 0.0069, Accuracy: 7177/10000 (72%)
+Elapsed time: 30.630805253982544
+
+Test set: Average loss: 0.0064, Accuracy: 7327/10000 (73%)
+Elapsed time: 27.05504083633423
+
+Test set: Average loss: 0.0058, Accuracy: 7635/10000 (76%)
+Elapsed time: 28.04685926437378
+
+Test set: Average loss: 0.0064, Accuracy: 7354/10000 (74%)
+Elapsed time: 29.857287645339966
+
+Test set: Average loss: 0.0063, Accuracy: 7459/10000 (75%)
+Elapsed time: 30.285558938980103
+
+Test set: Average loss: 0.0052, Accuracy: 7848/10000 (78%)
+Elapsed time: 30.85799503326416
+
+Test set: Average loss: 0.0055, Accuracy: 7730/10000 (77%)
+Elapsed time: 29.64786171913147
+
+Test set: Average loss: 0.0051, Accuracy: 7941/10000 (79%)
+Elapsed time: 29.668011903762817
+
+Test set: Average loss: 0.0058, Accuracy: 7622/10000 (76%)
+Elapsed time: 29.792011737823486
+
+Test set: Average loss: 0.0052, Accuracy: 7870/10000 (79%)
+Elapsed time: 29.526402235031128
+
+Test set: Average loss: 0.0050, Accuracy: 8045/10000 (80%)
+Elapsed time: 30.351629495620728
+
+Test set: Average loss: 0.0046, Accuracy: 8054/10000 (81%)
+Elapsed time: 29.819259881973267
+
+Test set: Average loss: 0.0046, Accuracy: 8166/10000 (82%)
+Elapsed time: 29.635536193847656
+
+Test set: Average loss: 0.0047, Accuracy: 8083/10000 (81%)
+Elapsed time: 28.175168991088867
+
+Test set: Average loss: 0.0045, Accuracy: 8094/10000 (81%)
+Elapsed time: 29.730815410614014
+
+Test set: Average loss: 0.0044, Accuracy: 8272/10000 (83%)
+Elapsed time: 29.901836156845093
+
+Test set: Average loss: 0.0050, Accuracy: 7947/10000 (79%)
+Elapsed time: 30.312214374542236
+
+Test set: Average loss: 0.0044, Accuracy: 8231/10000 (82%)
+Elapsed time: 28.09966468811035
+
+Test set: Average loss: 0.0046, Accuracy: 8249/10000 (82%)
+Elapsed time: 29.51530170440674
+
+Test set: Average loss: 0.0044, Accuracy: 8224/10000 (82%)
+Elapsed time: 29.86500382423401
+
+Test set: Average loss: 0.0047, Accuracy: 8070/10000 (81%)
+Elapsed time: 30.523396730422974
+
+Test set: Average loss: 0.0034, Accuracy: 8563/10000 (86%)
+Elapsed time: 30.618313550949097
+
+Test set: Average loss: 0.0034, Accuracy: 8624/10000 (86%)
+Elapsed time: 28.778636932373047
+
+Test set: Average loss: 0.0033, Accuracy: 8659/10000 (87%)
+Elapsed time: 29.36070489883423
+
+Test set: Average loss: 0.0038, Accuracy: 8562/10000 (86%)
+Elapsed time: 29.719448566436768
+
+Test set: Average loss: 0.0031, Accuracy: 8742/10000 (87%)
+Elapsed time: 29.34552764892578
+
+Test set: Average loss: 0.0033, Accuracy: 8685/10000 (87%)
+Elapsed time: 29.83754849433899
+
+Test set: Average loss: 0.0033, Accuracy: 8646/10000 (86%)
+Elapsed time: 29.716081857681274
+
+Test set: Average loss: 0.0036, Accuracy: 8509/10000 (85%)
+Elapsed time: 30.106762409210205
+
+Test set: Average loss: 0.0034, Accuracy: 8637/10000 (86%)
+Elapsed time: 30.67646813392639
+
+Test set: Average loss: 0.0033, Accuracy: 8660/10000 (87%)
+Elapsed time: 28.51102876663208
+
+Test set: Average loss: 0.0035, Accuracy: 8577/10000 (86%)
+Elapsed time: 30.13731551170349
+
+Test set: Average loss: 0.0036, Accuracy: 8556/10000 (86%)
+Elapsed time: 30.66658663749695
+
+Test set: Average loss: 0.0034, Accuracy: 8615/10000 (86%)
+Elapsed time: 29.44383478164673
+
+Test set: Average loss: 0.0032, Accuracy: 8689/10000 (87%)
+Elapsed time: 30.677858352661133
+
+Test set: Average loss: 0.0032, Accuracy: 8705/10000 (87%)
+Elapsed time: 30.381664752960205
+
+Test set: Average loss: 0.0035, Accuracy: 8626/10000 (86%)
+Elapsed time: 30.01987648010254
+
+Test set: Average loss: 0.0036, Accuracy: 8594/10000 (86%)
+Elapsed time: 30.577163457870483
+
+Test set: Average loss: 0.0033, Accuracy: 8626/10000 (86%)
+Elapsed time: 30.104577779769897
+
+Test set: Average loss: 0.0033, Accuracy: 8723/10000 (87%)
+Elapsed time: 29.598559856414795
+
+Test set: Average loss: 0.0033, Accuracy: 8710/10000 (87%)
+Elapsed time: 28.274696350097656
+
+Test set: Average loss: 0.0033, Accuracy: 8744/10000 (87%)
+Elapsed time: 30.051425218582153
+
+Test set: Average loss: 0.0035, Accuracy: 8576/10000 (86%)
+Elapsed time: 30.35380744934082
+
+Test set: Average loss: 0.0035, Accuracy: 8656/10000 (87%)
+Elapsed time: 31.652655363082886
+
+Test set: Average loss: 0.0033, Accuracy: 8668/10000 (87%)
+Elapsed time: 30.96352529525757
+
+Test set: Average loss: 0.0037, Accuracy: 8661/10000 (87%)
+Elapsed time: 30.960712909698486
+
+Test set: Average loss: 0.0036, Accuracy: 8630/10000 (86%)
+Elapsed time: 31.06784200668335
+
+Test set: Average loss: 0.0033, Accuracy: 8674/10000 (87%)
+Elapsed time: 30.256263256072998
+
+Test set: Average loss: 0.0036, Accuracy: 8657/10000 (87%)
+Elapsed time: 29.581918954849243
+
+Test set: Average loss: 0.0037, Accuracy: 8592/10000 (86%)
+Elapsed time: 29.757139682769775
+
+Test set: Average loss: 0.0035, Accuracy: 8609/10000 (86%)
+Elapsed time: 28.432901859283447
+
+Test set: Average loss: 0.0030, Accuracy: 8862/10000 (89%)
+Elapsed time: 28.796257734298706
+
+Test set: Average loss: 0.0029, Accuracy: 8896/10000 (89%)
+Elapsed time: 28.731444358825684
+
+Test set: Average loss: 0.0033, Accuracy: 8831/10000 (88%)
+Elapsed time: 30.454097986221313
+
+Test set: Average loss: 0.0029, Accuracy: 8913/10000 (89%)
+Elapsed time: 31.90092372894287
+
+Test set: Average loss: 0.0030, Accuracy: 8903/10000 (89%)
+Elapsed time: 31.428364992141724
+
+Test set: Average loss: 0.0033, Accuracy: 8852/10000 (89%)
+Elapsed time: 30.722246408462524
+
+Test set: Average loss: 0.0030, Accuracy: 8855/10000 (89%)
+Elapsed time: 30.272048234939575
+
+Test set: Average loss: 0.0029, Accuracy: 8941/10000 (89%)
+Elapsed time: 30.167436599731445
+
+Test set: Average loss: 0.0031, Accuracy: 8878/10000 (89%)
+Elapsed time: 30.198570728302002
+
+Test set: Average loss: 0.0031, Accuracy: 8892/10000 (89%)
+Elapsed time: 30.131842613220215
+
+Test set: Average loss: 0.0031, Accuracy: 8897/10000 (89%)
+Elapsed time: 27.72502613067627
+
+Test set: Average loss: 0.0032, Accuracy: 8846/10000 (88%)
+Elapsed time: 28.407684087753296
+
+Test set: Average loss: 0.0031, Accuracy: 8898/10000 (89%)
+Elapsed time: 30.279021501541138
+
+Test set: Average loss: 0.0034, Accuracy: 8785/10000 (88%)
+Elapsed time: 28.946045875549316
+
+Test set: Average loss: 0.0034, Accuracy: 8769/10000 (88%)
+Elapsed time: 30.003541707992554
+
+Test set: Average loss: 0.0034, Accuracy: 8824/10000 (88%)
+Elapsed time: 28.401427507400513
+
+Test set: Average loss: 0.0032, Accuracy: 8860/10000 (89%)
+Elapsed time: 28.939395904541016
+
+Test set: Average loss: 0.0032, Accuracy: 8837/10000 (88%)
+Elapsed time: 30.405502557754517
+
+Test set: Average loss: 0.0034, Accuracy: 8841/10000 (88%)
+Elapsed time: 27.834937572479248
+
+Test set: Average loss: 0.0030, Accuracy: 8865/10000 (89%)
+Elapsed time: 29.484046697616577
+
+Test set: Average loss: 0.0032, Accuracy: 8861/10000 (89%)
+Elapsed time: 29.182448148727417
+
+Test set: Average loss: 0.0033, Accuracy: 8822/10000 (88%)
+Elapsed time: 31.087692499160767
+
+Test set: Average loss: 0.0033, Accuracy: 8807/10000 (88%)
+Elapsed time: 28.711756944656372
+
+Test set: Average loss: 0.0032, Accuracy: 8818/10000 (88%)
+Elapsed time: 28.89629864692688
+
+Test set: Average loss: 0.0033, Accuracy: 8855/10000 (89%)
+Elapsed time: 29.13164186477661
+
+Test set: Average loss: 0.0033, Accuracy: 8847/10000 (88%)
+Elapsed time: 28.752333641052246
+
+Test set: Average loss: 0.0030, Accuracy: 8864/10000 (89%)
+Elapsed time: 28.95159912109375
+
+Test set: Average loss: 0.0034, Accuracy: 8822/10000 (88%)
+Elapsed time: 29.93911910057068
+
+Test set: Average loss: 0.0031, Accuracy: 8916/10000 (89%)
+Elapsed time: 30.63398289680481
+
+Test set: Average loss: 0.0033, Accuracy: 8858/10000 (89%)
+Elapsed time: 29.5945143699646
+
+Test set: Average loss: 0.0032, Accuracy: 8986/10000 (90%)
+Elapsed time: 31.311779499053955
+
+Test set: Average loss: 0.0035, Accuracy: 8909/10000 (89%)
+Elapsed time: 29.241132974624634
+
+Test set: Average loss: 0.0033, Accuracy: 8929/10000 (89%)
+Elapsed time: 29.668123722076416
+
+Test set: Average loss: 0.0032, Accuracy: 9019/10000 (90%)
+Elapsed time: 30.07936143875122
+
+Test set: Average loss: 0.0033, Accuracy: 9033/10000 (90%)
+Elapsed time: 29.809765338897705
+
+Test set: Average loss: 0.0033, Accuracy: 8968/10000 (90%)
+Elapsed time: 31.283193349838257
+
+Test set: Average loss: 0.0034, Accuracy: 8990/10000 (90%)
+Elapsed time: 32.31078243255615
+
+Test set: Average loss: 0.0034, Accuracy: 8942/10000 (89%)
+Elapsed time: 33.561219453811646
+
+Test set: Average loss: 0.0034, Accuracy: 8965/10000 (90%)
+Elapsed time: 31.56401491165161
+
+Test set: Average loss: 0.0031, Accuracy: 9001/10000 (90%)
+Elapsed time: 29.49225926399231
+
+Test set: Average loss: 0.0034, Accuracy: 9024/10000 (90%)
+Elapsed time: 30.99669861793518
+
+Test set: Average loss: 0.0033, Accuracy: 8989/10000 (90%)
+Elapsed time: 30.730072736740112
+
+Test set: Average loss: 0.0033, Accuracy: 8988/10000 (90%)
+Elapsed time: 30.467296838760376
+
+Test set: Average loss: 0.0033, Accuracy: 9013/10000 (90%)
+Elapsed time: 31.188901662826538
+
+Test set: Average loss: 0.0032, Accuracy: 9004/10000 (90%)
+Elapsed time: 29.816855669021606
+
+Test set: Average loss: 0.0034, Accuracy: 8971/10000 (90%)
+Elapsed time: 30.141255140304565
+
+Test set: Average loss: 0.0035, Accuracy: 8953/10000 (90%)
+Elapsed time: 31.575099229812622
+
+Test set: Average loss: 0.0032, Accuracy: 9003/10000 (90%)
+Elapsed time: 32.26009798049927
+
+Test set: Average loss: 0.0033, Accuracy: 8975/10000 (90%)
+Elapsed time: 30.01443886756897
+
+Test set: Average loss: 0.0035, Accuracy: 8920/10000 (89%)
+Elapsed time: 29.35039782524109
+
+Test set: Average loss: 0.0033, Accuracy: 8997/10000 (90%)
+Elapsed time: 28.642993450164795
+
+Test set: Average loss: 0.0036, Accuracy: 8986/10000 (90%)
+Elapsed time: 32.36387753486633
+
+Test set: Average loss: 0.0036, Accuracy: 8947/10000 (89%)
+Elapsed time: 30.893065214157104
+
+Test set: Average loss: 0.0032, Accuracy: 9012/10000 (90%)
+Elapsed time: 29.566575288772583
+
+Test set: Average loss: 0.0036, Accuracy: 8900/10000 (89%)
+Elapsed time: 29.44985342025757
+
+Test set: Average loss: 0.0036, Accuracy: 8891/10000 (89%)
+Elapsed time: 30.109217882156372
+
+Test set: Average loss: 0.0037, Accuracy: 8906/10000 (89%)
+Elapsed time: 31.214804887771606
+
+Test set: Average loss: 0.0038, Accuracy: 8900/10000 (89%)
+Elapsed time: 31.527783632278442
+
+Test set: Average loss: 0.0033, Accuracy: 8998/10000 (90%)
+Elapsed time: 31.99955415725708
+
+Test set: Average loss: 0.0036, Accuracy: 8924/10000 (89%)
+Elapsed time: 31.129860639572144
+
+Test set: Average loss: 0.0032, Accuracy: 9072/10000 (91%)
+Elapsed time: 30.279627323150635
+
+Test set: Average loss: 0.0033, Accuracy: 9045/10000 (90%)
+Elapsed time: 29.576348066329956
+
+Test set: Average loss: 0.0033, Accuracy: 9064/10000 (91%)
+Elapsed time: 30.183435678482056
+
+Test set: Average loss: 0.0034, Accuracy: 9077/10000 (91%)
+Elapsed time: 31.306347131729126
+
+Test set: Average loss: 0.0034, Accuracy: 9071/10000 (91%)
+Elapsed time: 29.362544298171997
+
+Test set: Average loss: 0.0034, Accuracy: 9057/10000 (91%)
+Elapsed time: 28.790316820144653
+
+Test set: Average loss: 0.0033, Accuracy: 9094/10000 (91%)
+Elapsed time: 30.342317581176758
+
+Test set: Average loss: 0.0033, Accuracy: 9078/10000 (91%)
+Elapsed time: 30.601102590560913
+
+Test set: Average loss: 0.0034, Accuracy: 9081/10000 (91%)
+Elapsed time: 30.381096124649048
+
+Test set: Average loss: 0.0033, Accuracy: 9099/10000 (91%)
+Elapsed time: 31.391241788864136
+
+Test set: Average loss: 0.0035, Accuracy: 9057/10000 (91%)
+Elapsed time: 31.94675087928772
+
+Test set: Average loss: 0.0035, Accuracy: 9017/10000 (90%)
+Elapsed time: 30.76198673248291
+
+Test set: Average loss: 0.0033, Accuracy: 9078/10000 (91%)
+Elapsed time: 29.20406985282898
+
+Test set: Average loss: 0.0033, Accuracy: 9083/10000 (91%)
+Elapsed time: 29.69465160369873
+
+Test set: Average loss: 0.0033, Accuracy: 9095/10000 (91%)
+Elapsed time: 29.638695001602173
+
+Test set: Average loss: 0.0032, Accuracy: 9086/10000 (91%)
+Elapsed time: 30.98942494392395
+
+Test set: Average loss: 0.0033, Accuracy: 9093/10000 (91%)
+Elapsed time: 31.385197162628174
+
+Test set: Average loss: 0.0033, Accuracy: 9071/10000 (91%)
+Elapsed time: 31.07780122756958
+
+Test set: Average loss: 0.0034, Accuracy: 9089/10000 (91%)
+Elapsed time: 31.34241795539856
+
+Test set: Average loss: 0.0033, Accuracy: 9047/10000 (90%)
+Elapsed time: 30.326982021331787
+
+Test set: Average loss: 0.0033, Accuracy: 9088/10000 (91%)
+Elapsed time: 31.096609830856323
+
+Test set: Average loss: 0.0033, Accuracy: 9105/10000 (91%)
+Elapsed time: 31.032368183135986
+
+Test set: Average loss: 0.0034, Accuracy: 9049/10000 (90%)
+Elapsed time: 29.76075768470764
+
+Test set: Average loss: 0.0032, Accuracy: 9091/10000 (91%)
+Elapsed time: 31.143913507461548
+
+Test set: Average loss: 0.0033, Accuracy: 9081/10000 (91%)
+Elapsed time: 30.072173357009888
+
+Test set: Average loss: 0.0033, Accuracy: 9088/10000 (91%)
+Elapsed time: 30.088798999786377
+
+Test set: Average loss: 0.0034, Accuracy: 9079/10000 (91%)
+Elapsed time: 29.01357889175415
+
+Test set: Average loss: 0.0034, Accuracy: 9062/10000 (91%)
+Elapsed time: 30.480711221694946
+
+Test set: Average loss: 0.0034, Accuracy: 9054/10000 (91%)
+Elapsed time: 32.39040780067444
+
+Test set: Average loss: 0.0034, Accuracy: 9045/10000 (90%)
+Elapsed time: 31.588019847869873
+
+Test set: Average loss: 0.0033, Accuracy: 9093/10000 (91%)
+Elapsed time: 31.008014678955078
+
+Test set: Average loss: 0.0032, Accuracy: 9129/10000 (91%)
+Elapsed time: 32.446752071380615
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 30.858931303024292
+
+Test set: Average loss: 0.0032, Accuracy: 9122/10000 (91%)
+Elapsed time: 29.56360387802124
+
+Test set: Average loss: 0.0033, Accuracy: 9139/10000 (91%)
+Elapsed time: 29.82887053489685
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 29.69955062866211
+
+Test set: Average loss: 0.0032, Accuracy: 9096/10000 (91%)
+Elapsed time: 29.979438066482544
+
+Test set: Average loss: 0.0032, Accuracy: 9094/10000 (91%)
+Elapsed time: 29.957908391952515
+
+Test set: Average loss: 0.0032, Accuracy: 9110/10000 (91%)
+Elapsed time: 29.86312484741211
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 31.098724603652954
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 30.586554050445557
+
+Test set: Average loss: 0.0032, Accuracy: 9113/10000 (91%)
+Elapsed time: 30.9238498210907
+
+Test set: Average loss: 0.0032, Accuracy: 9138/10000 (91%)
+Elapsed time: 30.047037601470947
+
+Test set: Average loss: 0.0032, Accuracy: 9114/10000 (91%)
+Elapsed time: 30.186875343322754
+
+Test set: Average loss: 0.0032, Accuracy: 9118/10000 (91%)
+Elapsed time: 29.88647770881653
+
+Test set: Average loss: 0.0032, Accuracy: 9117/10000 (91%)
+Elapsed time: 29.4037344455719
+
+Test set: Average loss: 0.0032, Accuracy: 9107/10000 (91%)
+Elapsed time: 30.16960620880127
+
+Test set: Average loss: 0.0033, Accuracy: 9116/10000 (91%)
+Elapsed time: 29.19966697692871
+
+Test set: Average loss: 0.0033, Accuracy: 9099/10000 (91%)
+Elapsed time: 30.301177263259888
+
+Test set: Average loss: 0.0031, Accuracy: 9108/10000 (91%)
+Elapsed time: 29.506974458694458
+
+Test set: Average loss: 0.0032, Accuracy: 9101/10000 (91%)
+Elapsed time: 33.25264596939087
+
+Test set: Average loss: 0.0032, Accuracy: 9101/10000 (91%)
+Elapsed time: 29.88354778289795
+
+Test set: Average loss: 0.0032, Accuracy: 9110/10000 (91%)
+Elapsed time: 29.48127031326294
+
+Test set: Average loss: 0.0032, Accuracy: 9095/10000 (91%)
+Elapsed time: 31.96793270111084
+
+Test set: Average loss: 0.0032, Accuracy: 9103/10000 (91%)
+Elapsed time: 30.211206197738647
+
+Test set: Average loss: 0.0032, Accuracy: 9125/10000 (91%)
+Elapsed time: 29.61263871192932
+
+Test set: Average loss: 0.0032, Accuracy: 9122/10000 (91%)
+Elapsed time: 31.69092583656311
+
+Test set: Average loss: 0.0032, Accuracy: 9109/10000 (91%)
+Elapsed time: 29.58980631828308
+
+Test set: Average loss: 0.0032, Accuracy: 9100/10000 (91%)
+Elapsed time: 29.084033966064453
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 31.811283349990845
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 28.43619966506958
+
+Test set: Average loss: 0.0032, Accuracy: 9133/10000 (91%)
+Elapsed time: 30.286873817443848
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 30.385469913482666
+
+Test set: Average loss: 0.0032, Accuracy: 9112/10000 (91%)
+Elapsed time: 30.735860109329224
+
+Test set: Average loss: 0.0032, Accuracy: 9111/10000 (91%)
+Elapsed time: 31.58708930015564
+
+Test set: Average loss: 0.0032, Accuracy: 9113/10000 (91%)
+Elapsed time: 31.460405588150024
+
+Test set: Average loss: 0.0032, Accuracy: 9123/10000 (91%)
+Elapsed time: 31.692278385162354
+
+Test set: Average loss: 0.0032, Accuracy: 9118/10000 (91%)
+Elapsed time: 30.858484268188477
+
+Test set: Average loss: 0.0032, Accuracy: 9112/10000 (91%)
+Elapsed time: 29.99153470993042
+
+Test set: Average loss: 0.0032, Accuracy: 9116/10000 (91%)
+Elapsed time: 29.65733551979065
+
+Test set: Average loss: 0.0031, Accuracy: 9121/10000 (91%)
+Elapsed time: 30.363041639328003
+
+Test set: Average loss: 0.0032, Accuracy: 9121/10000 (91%)
+Elapsed time: 31.904991149902344
+
+Test set: Average loss: 0.0032, Accuracy: 9105/10000 (91%)
+Elapsed time: 30.593884706497192
+
+Test set: Average loss: 0.0032, Accuracy: 9114/10000 (91%)
+Elapsed time: 30.093170166015625
+
+Test set: Average loss: 0.0033, Accuracy: 9114/10000 (91%)
+Elapsed time: 32.75982618331909
+
+Test set: Average loss: 0.0032, Accuracy: 9117/10000 (91%)
+Elapsed time: 32.70827555656433
+
+Test set: Average loss: 0.0033, Accuracy: 9119/10000 (91%)
+Elapsed time: 31.17456078529358
+
+Test set: Average loss: 0.0032, Accuracy: 9112/10000 (91%)
+Elapsed time: 30.149725437164307
+
+Test set: Average loss: 0.0033, Accuracy: 9109/10000 (91%)
+Elapsed time: 29.391358613967896
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 30.61841654777527
+
+Test set: Average loss: 0.0033, Accuracy: 9109/10000 (91%)
+Elapsed time: 30.057897806167603
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 31.56739115715027
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 29.867523908615112
+
+Test set: Average loss: 0.0032, Accuracy: 9138/10000 (91%)
+Elapsed time: 32.09681749343872
+
+Test set: Average loss: 0.0032, Accuracy: 9132/10000 (91%)
+Elapsed time: 31.061923503875732
+
+Test set: Average loss: 0.0032, Accuracy: 9121/10000 (91%)
+Elapsed time: 33.02474021911621
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 32.216612577438354
+
+Test set: Average loss: 0.0033, Accuracy: 9124/10000 (91%)
+Elapsed time: 31.003851890563965
+
+Test set: Average loss: 0.0032, Accuracy: 9124/10000 (91%)
+Elapsed time: 28.92290735244751
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 31.371873140335083
+
+Test set: Average loss: 0.0032, Accuracy: 9129/10000 (91%)
+Elapsed time: 29.650689601898193
+
+Test set: Average loss: 0.0033, Accuracy: 9133/10000 (91%)
+Elapsed time: 32.17065167427063
+
+Test set: Average loss: 0.0032, Accuracy: 9129/10000 (91%)
+Elapsed time: 30.333616256713867
+
+Test set: Average loss: 0.0032, Accuracy: 9113/10000 (91%)
+Elapsed time: 30.44044828414917
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 31.024997234344482
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 32.04353594779968
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 30.303596258163452
+
+Test set: Average loss: 0.0032, Accuracy: 9127/10000 (91%)
+Elapsed time: 31.373332738876343
+
+Test set: Average loss: 0.0032, Accuracy: 9125/10000 (91%)
+Elapsed time: 29.641116619110107
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 31.113473892211914
+
+Test set: Average loss: 0.0032, Accuracy: 9122/10000 (91%)
+Elapsed time: 30.05563497543335
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 30.330549240112305
+
+Test set: Average loss: 0.0033, Accuracy: 9118/10000 (91%)
+Elapsed time: 30.430472135543823
+
+Test set: Average loss: 0.0032, Accuracy: 9129/10000 (91%)
+Elapsed time: 31.02963900566101
+
+Test set: Average loss: 0.0033, Accuracy: 9119/10000 (91%)
+Elapsed time: 31.804940938949585
+
+Test set: Average loss: 0.0033, Accuracy: 9121/10000 (91%)
+Elapsed time: 32.38758850097656
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 31.58715844154358
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 31.801024675369263
+
+Test set: Average loss: 0.0032, Accuracy: 9112/10000 (91%)
+Elapsed time: 32.248833894729614
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 31.44392967224121
+
+Test set: Average loss: 0.0032, Accuracy: 9113/10000 (91%)
+Elapsed time: 31.416009187698364
+
+Test set: Average loss: 0.0032, Accuracy: 9122/10000 (91%)
+Elapsed time: 29.416781902313232
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 31.608817100524902
+
+Test set: Average loss: 0.0033, Accuracy: 9119/10000 (91%)
+Elapsed time: 31.586276054382324
+
+Test set: Average loss: 0.0032, Accuracy: 9127/10000 (91%)
+Elapsed time: 30.318032026290894
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 29.829302549362183
+
+Test set: Average loss: 0.0033, Accuracy: 9115/10000 (91%)
+Elapsed time: 30.95299458503723
+
+Test set: Average loss: 0.0032, Accuracy: 9117/10000 (91%)
+Elapsed time: 31.15711784362793
+
+Test set: Average loss: 0.0032, Accuracy: 9108/10000 (91%)
+Elapsed time: 31.8593807220459
+
+Test set: Average loss: 0.0032, Accuracy: 9126/10000 (91%)
+Elapsed time: 32.41718029975891
+
+Test set: Average loss: 0.0032, Accuracy: 9121/10000 (91%)
+Elapsed time: 31.72916007041931
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 30.07142996788025
+
+Test set: Average loss: 0.0033, Accuracy: 9122/10000 (91%)
+Elapsed time: 31.277939796447754
+
+Test set: Average loss: 0.0032, Accuracy: 9117/10000 (91%)
+Elapsed time: 32.13693714141846
+
+Test set: Average loss: 0.0032, Accuracy: 9124/10000 (91%)
+Elapsed time: 30.21709132194519
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 31.98043918609619
+
+Test set: Average loss: 0.0033, Accuracy: 9126/10000 (91%)
+Elapsed time: 30.08539891242981
+
+Test set: Average loss: 0.0032, Accuracy: 9118/10000 (91%)
+Elapsed time: 32.21162962913513
+
+Test set: Average loss: 0.0032, Accuracy: 9122/10000 (91%)
+Elapsed time: 31.484333038330078
+
+Test set: Average loss: 0.0033, Accuracy: 9130/10000 (91%)
+Elapsed time: 30.70336127281189
+
+Test set: Average loss: 0.0032, Accuracy: 9125/10000 (91%)
+Elapsed time: 32.812227964401245
+
+Test set: Average loss: 0.0032, Accuracy: 9122/10000 (91%)
+Elapsed time: 31.90860915184021
+
+Test set: Average loss: 0.0032, Accuracy: 9116/10000 (91%)
+Elapsed time: 29.473108291625977
+
+Test set: Average loss: 0.0033, Accuracy: 9115/10000 (91%)
+Elapsed time: 32.018035888671875
+
+Test set: Average loss: 0.0033, Accuracy: 9127/10000 (91%)
+Elapsed time: 31.78521490097046
+
+Test set: Average loss: 0.0032, Accuracy: 9111/10000 (91%)
+Elapsed time: 31.636630058288574
+
+Test set: Average loss: 0.0032, Accuracy: 9120/10000 (91%)
+Elapsed time: 28.796476364135742
+
+Test set: Average loss: 0.0032, Accuracy: 9111/10000 (91%)
+Elapsed time: 31.532039642333984
+
+Test set: Average loss: 0.0032, Accuracy: 9117/10000 (91%)
+Elapsed time: 31.10351872444153
+
+Test set: Average loss: 0.0032, Accuracy: 9118/10000 (91%)
+Elapsed time: 31.16223907470703
+
+Test set: Average loss: 0.0032, Accuracy: 9110/10000 (91%)
+Elapsed time: 30.013951778411865
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 32.52015161514282
+
+Test set: Average loss: 0.0032, Accuracy: 9112/10000 (91%)
+Elapsed time: 33.10563540458679
+
+Test set: Average loss: 0.0033, Accuracy: 9107/10000 (91%)
+Elapsed time: 33.524259090423584
+
+Test set: Average loss: 0.0032, Accuracy: 9103/10000 (91%)
+Elapsed time: 30.461678981781006
+
+Test set: Average loss: 0.0032, Accuracy: 9106/10000 (91%)
+Elapsed time: 31.483548641204834
+
+Test set: Average loss: 0.0032, Accuracy: 9116/10000 (91%)
+Elapsed time: 30.169889211654663
+
+Test set: Average loss: 0.0033, Accuracy: 9103/10000 (91%)
+Elapsed time: 31.67989730834961
+
+Test set: Average loss: 0.0032, Accuracy: 9116/10000 (91%)
+Elapsed time: 29.42072319984436
+
+Test set: Average loss: 0.0032, Accuracy: 9109/10000 (91%)
+Elapsed time: 30.52309560775757
+
+Test set: Average loss: 0.0032, Accuracy: 9106/10000 (91%)
+Elapsed time: 31.527941942214966
+
+Test set: Average loss: 0.0032, Accuracy: 9109/10000 (91%)
+Elapsed time: 32.4742488861084
+
+Test set: Average loss: 0.0033, Accuracy: 9116/10000 (91%)
+Elapsed time: 32.771092891693115
+
+Test set: Average loss: 0.0033, Accuracy: 9112/10000 (91%)
+Elapsed time: 30.540533304214478
+
+Test set: Average loss: 0.0033, Accuracy: 9112/10000 (91%)
+Elapsed time: 31.046589612960815
+
+Test set: Average loss: 0.0032, Accuracy: 9119/10000 (91%)
+Elapsed time: 30.133238315582275
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 29.714043617248535
+
+Test set: Average loss: 0.0033, Accuracy: 9110/10000 (91%)
+Elapsed time: 30.90892767906189
+
+Test set: Average loss: 0.0033, Accuracy: 9106/10000 (91%)
+Elapsed time: 30.130366563796997
+
+Test set: Average loss: 0.0032, Accuracy: 9107/10000 (91%)
+Elapsed time: 31.088178873062134
+
+Test set: Average loss: 0.0033, Accuracy: 9109/10000 (91%)
+Elapsed time: 31.8949236869812
+
+Test set: Average loss: 0.0032, Accuracy: 9109/10000 (91%)
+Elapsed time: 31.911747932434082
+
+Test set: Average loss: 0.0032, Accuracy: 9102/10000 (91%)
+Elapsed time: 32.20087456703186
+
+Test set: Average loss: 0.0032, Accuracy: 9110/10000 (91%)
+Elapsed time: 31.030882358551025
+
+Test set: Average loss: 0.0032, Accuracy: 9114/10000 (91%)
+Elapsed time: 29.955169677734375
+
+Test set: Average loss: 0.0032, Accuracy: 9113/10000 (91%)
+Elapsed time: 31.453088521957397
+
+Test set: Average loss: 0.0032, Accuracy: 9115/10000 (91%)
+Elapsed time: 32.404683113098145
+
+Test set: Average loss: 0.0032, Accuracy: 9108/10000 (91%)
+Elapsed time: 30.15787386894226
+
+Test set: Average loss: 0.0032, Accuracy: 9110/10000 (91%)
+Elapsed time: 31.35499358177185
+
+Test set: Average loss: 0.0032, Accuracy: 9107/10000 (91%)
+Elapsed time: 32.12959814071655
+
+Test set: Average loss: 0.0033, Accuracy: 9109/10000 (91%)
+Elapsed time: 31.4009747505188
+
+Test set: Average loss: 0.0033, Accuracy: 9108/10000 (91%)
+Elapsed time: 32.85543918609619
+
+Test set: Average loss: 0.0032, Accuracy: 9108/10000 (91%)
+Elapsed time: 32.984811782836914
+
+Test set: Average loss: 0.0032, Accuracy: 9103/10000 (91%)
+Elapsed time: 30.10215163230896
+
+Test set: Average loss: 0.0033, Accuracy: 9112/10000 (91%)
+Elapsed time: 34.85722732543945
+
+Test set: Average loss: 0.0032, Accuracy: 9109/10000 (91%)
+Elapsed time: 31.627206563949585
+
+Test set: Average loss: 0.0033, Accuracy: 9106/10000 (91%)
+Elapsed time: 31.12866759300232
+
+Test set: Average loss: 0.0033, Accuracy: 9107/10000 (91%)
+Elapsed time: 27.414851427078247
+
+Test set: Average loss: 0.0033, Accuracy: 9113/10000 (91%)
+Elapsed time: 28.19185161590576
+
+Test set: Average loss: 0.0033, Accuracy: 9104/10000 (91%)
+Elapsed time: 30.40073823928833
+
+Test set: Average loss: 0.0033, Accuracy: 9104/10000 (91%)
+Elapsed time: 29.190221786499023

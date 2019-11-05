@@ -1,0 +1,22 @@
+python cifar10_vgg.py --lr=0.001 --log-interval=100 --plot-name=0.001 > log0.001
+python cifar10_vgg.py --lr=0.002 --log-interval=100 --plot-name=0.002 > log0.002
+python cifar10_vgg.py --lr=0.003 --log-interval=100 --plot-name=0.003 > log0.003
+python cifar10_vgg.py --lr=0.004 --log-interval=100 --plot-name=0.004 > log0.004
+python cifar10_vgg.py --lr=0.005 --log-interval=100 --plot-name=0.005 > log0.005
+python cifar10_vgg.py --lr=0.006 --log-interval=100 --plot-name=0.006 > log0.006
+python cifar10_vgg.py --lr=0.007 --log-interval=100 --plot-name=0.007 > log0.007
+python cifar10_vgg.py --lr=0.008 --log-interval=100 --plot-name=0.008 > log0.008
+python cifar10_vgg.py --lr=0.009 --log-interval=100 --plot-name=0.009 > log0.009
+python cifar10_vgg.py --lr=0.01 --log-interval=100 --plot-name=0.01 > log0.01
+
+
+CUDA_VISIBLE_DEVICES=0 python cifar10_vgg.py --log-interval=-1 --model=vgg11 --data-aug --plot-name=original_vgg11_aug > log/original_vgg11_aug
+CUDA_VISIBLE_DEVICES=1 python cifar10_vgg.py --log-interval=-1 --model=vgg11 --plot-name=original_vgg11_noaug > log/original_vgg11_noaug
+CUDA_VISIBLE_DEVICES=2 python cifar10_vgg.py --log-interval=-1 --model=vgg19 --data-aug --plot-name=original_vgg19_aug > log/original_vgg19_aug
+CUDA_VISIBLE_DEVICES=3 python cifar10_vgg.py --log-interval=-1 --model=vgg19 --plot-name=original_vgg19_noaug > log/original_vgg19_noaug
+
+
+CUDA_VISIBLE_DEVICES=0 python cifar10_vgg.py --log-interval=-1 --model=modified_vgg11 --data-aug --plot-name=modified_vgg11_aug > log/modified_vgg11_aug
+CUDA_VISIBLE_DEVICES=1 python cifar10_vgg.py --log-interval=-1 --model=modified_vgg11 --plot-name=modified_vgg11_noaug > log/modified_vgg11_noaug
+CUDA_VISIBLE_DEVICES=2 python cifar10_vgg.py --log-interval=-1 --model=modified_vgg19 --data-aug --plot-name=modified_vgg19_aug > log/modified_vgg19_aug
+CUDA_VISIBLE_DEVICES=3 python cifar10_vgg.py --log-interval=-1 --model=modified_vgg19 --plot-name=modified_vgg19_noaug > log/modified_vgg19_noaug
